@@ -1,8 +1,4 @@
 # CORD-19 Metadata Analysis 📊
-https://img.shields.io/badge/Python-3.7%252B-blue
-https://img.shields.io/badge/Pandas-1.3%252B-orange
-https://img.shields.io/badge/Streamlit-1.0%252B-red
-https://img.shields.io/badge/License-MIT-green
 
 A comprehensive analysis of the CORD-19 dataset metadata, exploring patterns in COVID-19 research publications through data exploration, visualization, and an interactive web application.
 
@@ -53,7 +49,7 @@ pip (Python package installer)
 Steps
 Clone the repository:
 ```bash
-git clone https://github.com/Jenny-light/Frameworks_Assignment
+git clone https://github.com/Jenny-light/Frameworks_Assignment.git
 cd cord19-metadata-analysis
 ```
 Install required packages:
@@ -70,11 +66,17 @@ Place it in the project root directory
 ## 📁 Project Structure
 
 week8assignment/
+
 ├── metadata.csv          # CORD-19 metadata file (not included in the repository)
+
 ├── analysis.py           # Main analysis script
+
 ├── app.py               # Streamlit application
+
 ├── cord19_analysis.png  # Generated visualization
+
 ├── wordcloud.png        # Word cloud image
+
 └── README.md           # Project documentation
 
 ## 🎯 Usage
@@ -215,7 +217,11 @@ The research community for their contributions to COVID-19 literature
 ## 📞 Contact
 For questions or suggestions, please open an issue or contact:
 
-Your Name - email@domain.com
+Jennifer Omoregie
 
-Project Link: https://github.com/yourusername/cord19-metadata-analysis
+Email: jennylightomoregie@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/jennifer-omoregie-83388232a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app 
+
+
 
