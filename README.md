@@ -214,6 +214,8 @@ Kaggle for hosting the dataset
 
 The research community for their contributions to COVID-19 literature
 
+Python Instructors at the Power Learn Project Community
+
 ## 📞 Contact
 For questions or suggestions, please open an issue or contact:
 
