@@ -151,7 +151,8 @@ Analysis: Statistical summaries and pattern identification
 
 Visualization: Multiple chart types for comprehensive insights
 
-Technologies Used
+## Technologies Used
+
 Pandas: Data manipulation and analysis
 
 Matplotlib/Seaborn: Data visualization
